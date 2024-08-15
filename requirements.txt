@@ -1,0 +1,5 @@
+pandas
+numpy
+langchain
+sentence-transformers
+langchain-community
