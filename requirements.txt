@@ -3,3 +3,8 @@ numpy
 langchain
 sentence-transformers
 langchain-community
+streamlit
+sqlalchemy 
+pymysql  
+tidb-vector 
+python-dotenv
